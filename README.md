@@ -1,4 +1,4 @@
-#NPROS: A Not So Pure Random Orthogonal Search Algorithm –A Suite of Random Optimization Algorithms Driven by Reinforcement Learning.
+# NPROS: A Not So Pure Random Orthogonal Search Algorithm –A Suite of Random Optimization Algorithms Driven by Reinforcement Learning.
 
 Published in: Optimization Letters Journal, Springer Publication [SCI Indexed].
 Link to paper: https://link.springer.com/article/10.1007/s11590-023-02038-0
