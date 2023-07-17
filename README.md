@@ -3,7 +3,7 @@
 Published in: Optimization Letters Journal, Springer Publication [SCI Indexed].
 Link to paper: https://link.springer.com/article/10.1007/s11590-023-02038-0
 
-PDF of the paper available at: https://rdcu.be/dgCof
+PDF of the FULL paper available at: https://rdcu.be/dgCof
 
 NPROS is a suite of algorithms that is an elementary/easy-to-use, Random Optimization based global optimization algorithm. It is an improved/modified/elite version of the PROS (Pure Random Orthogonal Search) algorithm. The original PROS algorithm uses uniform distribution to sample new locations/points in the function domain, whereas our proposed NPROS suite uses Normal and Lognormal distribution. NPROS-1 smartly manipulates the mean and standard deviation parameters of the probability distribution to bring a flavour of 'Exploitation' to the otherwise purely explorative PROS search.
 
